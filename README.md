@@ -3,8 +3,6 @@
   <img src="https://profile-counter.glitch.me/pr0stre1/count.svg" />
 </p>
 
-[Telegram](https://t.me/pr0stre1) [Instagram](https://www.instagram.com/pr0stre1/)  [Twitter](https://twitter.com/pr0stre1) [Facebook](https://www.facebook.com/pr0stre1)
-
 <!--
 ### Hi there 👋
 **pr0stre1/pr0stre1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
