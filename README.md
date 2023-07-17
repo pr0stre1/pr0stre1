@@ -1,6 +1,6 @@
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/pr0stre1/count.svg" />
+  <img src="https://visitor-counter.nishithpshetty.tk/api?name=pr0stre1&operation=increment" />
 </p>
 
 <!--
