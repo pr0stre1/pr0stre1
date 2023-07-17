@@ -1,5 +1,5 @@
 <p align="center"> 
-  Visitor count<br>
+<!--   Visitor count<br> -->
   <img src="https://visitor-counter.nishithpshetty.tk/api?name=pr0stre1&operation=increment" />
 </p>
 
