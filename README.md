@@ -1,4 +1,4 @@
-:heart_eyes:
+Hi, my name is Oleh Zaporozhchenko. I'm Python Developer. I'm working on custom projects. I like new stuff
 
 <!--
 <p align="center"> 
